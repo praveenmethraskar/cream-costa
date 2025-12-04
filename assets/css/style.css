@@ -2726,7 +2726,7 @@ html{
     top: -35px;
 }
 .journey-con .journey_wrapper .journey-image img {
-    border-radius: 100%;
+    border-radius: 2%;
 }
 
 /* Mission */
@@ -2743,7 +2743,7 @@ html{
     right: 0;
     top: 0;
     position: absolute;
-    background-image: url(../images/ice-cup.png);
+    background-image: url(../ice-images/ice-cup.png);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
